@@ -136,19 +136,6 @@ e-Commerce/
 - **Price Calculation**: Automatic total calculation
 - **Cart Synchronization**: Cross-component cart state sync
 
-### Backend Deployment
-
-1. Set environment variables for production
-2. Configure MongoDB connection string
-3. Set up file upload storage (cloud storage recommended)
-4. Deploy to platforms like Heroku, Railway, or AWS
-
-### Frontend Deployment
-
-1. Build the application: `npm run build`
-2. Deploy to platforms like Vercel, Netlify, or AWS S3
-3. Configure API base URL for production
-
 ## 🔧 Development
 
 ### Available Scripts
